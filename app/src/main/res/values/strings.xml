@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">To Do</string>
+    <string name="empty_list">Empty List</string>
+    <string name="priority">Priority</string>
+    <string name="h">H</string>
+    <string name="m">M</string>
+    <string name="l">L</string>
+    <string name="choose_date">Choose Date</string>
+</resources>
